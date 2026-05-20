@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/cpu-maze-game/static/css/main.e6c13ad2.css",
+    "main.js": "/cpu-maze-game/static/js/main.8ef9e557.js",
+    "static/js/453.71fa0787.chunk.js": "/cpu-maze-game/static/js/453.71fa0787.chunk.js",
+    "index.html": "/cpu-maze-game/index.html",
+    "main.e6c13ad2.css.map": "/cpu-maze-game/static/css/main.e6c13ad2.css.map",
+    "main.8ef9e557.js.map": "/cpu-maze-game/static/js/main.8ef9e557.js.map",
+    "453.71fa0787.chunk.js.map": "/cpu-maze-game/static/js/453.71fa0787.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e6c13ad2.css",
+    "static/js/main.8ef9e557.js"
+  ]
+}
